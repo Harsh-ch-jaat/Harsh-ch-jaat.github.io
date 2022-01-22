@@ -10,51 +10,47 @@
         <tr>
             <td>
                 <table border="0" cellpadding="15" cellspacing="0" align="center">
-                    <tr>
-                        <td>
-                            <font face="arial" colour="#000000" size="5">    <h1>Hi, I'm Harsh </h1>
-</font >                        
-<font1
-face="arial" colour="#000000" size="4">                          
- <h2> Welcome to my website </h2>
-                                   
+                    </tr>
+                        </td>
+                            <font face="arial" colour="#000000" size="5">               
+  
+ <h1>𝙃𝙞, 𝙄'𝙢 𝙃𝙖𝙧𝙨𝙝</h1>
+ <h2>𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙬𝙚𝙗𝙨𝙞𝙩𝙚</h2>
+  
+  
+  
+  
+  </font>
+                                                            
                        
           <!--end header-->
+          
           <!--start header-->
 
-<table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="red">     
+<table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="white">     
         <tr>
             <td>
                 <table border="0" cellpadding="15" cellspacing="0" align="center">
                     <tr>
                         <td>
-                            <font face="arial" colour="#000000" size="5">    <h2>Environmental Studies</h2>
+                            <font face="arial" colour="#000000" size="5" >
+ <bgcolor="white">                         <h2>Environmental Studies</h2>
 </font >  
+   </tr>
                   </td>
  
     
-               <!--end header-->   
-                    <!--start header-->
-
-<table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="white ">     
-        <tr>
-            <td>
-                <table border="0" cellpadding="15" cellspacing="0" align="center">
-                    <tr>
-                        <td>
-                            <font face="arial" colour="#000000" size="2">    <h2>harshchauhan.me</h2>
-</font >  
-                  </td>
- 
-     
-               <!--end header-->   
-                   
+               <!--end header-->    
+               
+         
+          <!--start header-->   
+                    <table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="white">  
  <h3>Introduction</h3>
 
 
 
     
-<p2> Environmental studies is a multidisciplinary academic field which systematically studies human interaction with the environment. Environmental studies connects principles from the physical sciences, commerce/economics, the humanities,and social sciences to address complex contemporary environmental issues.</p2>  
+<p2>Environmental studies is a multidisciplinary academic field which systematically studies human interaction with the environment. Environmental studies connects principles from the physical sciences, commerce/economics, the humanities,and social sciences to address complex contemporary environmental issues.</p2>  
 <h3>History</h3> 
 <p2>  The New York State College of Forestry at Syracuse University established a BS in environmental studies degree in the 1950s, awarding its first degree in 1956.Middlebury College established the major there in 1965.
 
@@ -68,6 +64,7 @@ In the United States, many high school students are able to take environmental s
             
 </font2>
 
-                     
+       <!--end header-->    
+                      
                                   
-                            
+ 
