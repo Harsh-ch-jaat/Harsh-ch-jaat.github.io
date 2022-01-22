@@ -14,7 +14,5 @@
          </ul>
       </div>
    </div>
-   <h4>Social Media</h4>
-   Catch me on Facebook- <a href="https://www.facebook.com/profile.php?id=100017439789123">@Harsh chauhan</a>
 </div>
   Contact me -9306288253
