@@ -33,7 +33,7 @@ face="arial" colour="#000000" size="4">
 </font >  
                   </td>
  
- <font 2>    
+  
                <!--end header-->   
                     <!--start header-->
 
@@ -47,7 +47,7 @@ face="arial" colour="#000000" size="4">
 </font >  
                   </td>
  
- <font 2>    
+   
                <!--end header-->   
                    
  <h3>Introduction</h3>
