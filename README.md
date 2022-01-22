@@ -1,25 +1,62 @@
-<div class="container">
-    <h1>Harsh Chauhan</h>
-    <h3>Personal Profile</h3>
-     <a href="https://imgbb.com/"><img src="https://ibb.co/6wP7SHX" alt="profile-picture" border="0" /></a>
-   <h4>About Me</h4>
-   <p>Hi, I'm Harsh chauhan ,I have a huge passion for web-development and programming. I love to learn and thrive from challenges.My strength is devoted to hard work, self-motivation, and my work.As a youngster, I have no work experience, but once the opportunity comes I’ll prove.</p>
-   <h4>My Skills</h4>
-   <div class="listFlex">
-      <div>
-         <ul>
-            <li>HTML</li>
-            <li>JavaScript</li>
-            <li>C#</li>
-         </ul>
-      </div>
-   </div>
-   <h4>Social Media</h4>
-   Catch me on Facebook- <a href="https://www.facebook.com/profile.php?id=100017439789123">@Harsh chauhan</a>
-</div>
-  Contact me -9306288253
-  <h5>Address</h5>
- <div> Village- Jatoli near Hassanpur</div>
-<div>  City-Palwal</div>
-<div>  State-Haryana </div>
-  
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Environmental Studies</title>
+    </head>
+    <body>
+        <!--start header-->
+        <table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="Yellow">     
+        <tr>
+            <td>
+                <table border="0" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td>
+                            <font face="arial" colour="#000000" size="5">    <h1>Hi, I'm Harsh </h1>
+</font >                        
+<font1
+face="arial" colour="#000000" size="4">                          
+ <h2> Welcome to my website </h2>
+                                   
+                            </font1>
+                        </td>
+          <!--end header-->
+          <!--start header-->
+
+<table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="orange">     
+        <tr>
+            <td>
+                <table border="0" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td>
+                            <font face="arial" colour="#000000" size="5">    <h2>Environmental Studies</h2>
+</font >  
+                  </td>
+ 
+ <font 2>    
+               <!--end header-->   
+                    <!--start header-->
+
+<table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="grey">     
+        <tr>
+            <td>
+                <table border="0" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td>
+                            <font face="arial" colour="#000000" size="3">    <h2>harshchauhan.me</h2>
+</font >  
+                  </td>
+ 
+ <font 2>    
+               <!--end header-->   
+                   
+ <h3>Introduction</h3>
+
+
+
+    
+<p2> Environmental studies is a multidisciplinary academic field which systematically studies human interaction with the environment. Environmental studies connects principles from the physical sciences, commerce/economics, the humanities,and social sciences to address complex contemporary environmental issues.</p2>                  
+</font2>
+                     
+                                  
+                            
