@@ -34,7 +34,7 @@
                     <tr>
                         <td>
                             <font face="arial" colour="#000000" size="5" >
- <bgcolor="white">                         <h2>Environmental Studies</h2>
+                       <h2>Environmental Studies</h2>
 </font >  
    </tr>
                   </td>
