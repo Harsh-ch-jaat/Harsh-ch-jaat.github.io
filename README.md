@@ -1,4 +1,3 @@
-# Harsh-ch-jaat.github.io
 <div class="container">
     <h1>Harsh Chauhan</h
     <h3>Personal Profile</h3>
