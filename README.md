@@ -59,7 +59,7 @@ black
     </head>
     <body>
         <!--start header-->
-        <table id="header" border="3" width="90%" cellpadding="0" cellspacing="0" bgcolor="orange ">     
+        <table id="header" border="0" width="90%" cellpadding="0" cellspacing="0" bgcolor="orange ">     
         <tr>
             <td>
                 <table border="0" cellpadding="15" cellspacing="0" align="center">
@@ -82,7 +82,7 @@ black
     </head>
     <body>
         <!--start header-->
-        <table id="header" border="5" width="100%" cellpadding="0" cellspacing="0" bgcolor="silver">     
+        <table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="silver">     
         <tr>
             <td>
                 <table border="0" cellpadding="15" cellspacing="0" align="center">
@@ -107,7 +107,7 @@ black
     </head>
     <body>
         <!--start header-->
-        <table id="header" border="3" width="100%" cellpadding="0" cellspacing="0" bgcolor="orange ">     
+        <table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="orange ">     
         <tr>
             <td>
                 <table border="0" cellpadding="15" cellspacing="0" align="center">
