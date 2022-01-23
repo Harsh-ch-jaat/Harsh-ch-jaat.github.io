@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html>
     <head>
         <meta charset="utf-8">
@@ -50,7 +50,7 @@ black
                    
         <!--end header--> 
         
-     <!DOCTYPE html>
+    
 <html>
     <head>
         <meta charset="utf-8">
@@ -73,7 +73,7 @@ black
                         </td>
                    
         <!--end header-->   
-  <!DOCTYPE html>
+ 
 <html>
     <head>
         <meta charset="utf-8">
@@ -98,7 +98,7 @@ black
                         </td>
                         
         <!--end header-->    
-       <!DOCTYPE html>
+      
 <html>
     <head>
         <meta charset="utf-8">
@@ -121,7 +121,7 @@ black
                         </td>
                    
         <!--end header--> 
-        <!DOCTYPE html>
+       
 <html>
     <head>
         <meta charset="utf-8">
@@ -146,7 +146,7 @@ black
                         </td>
                    
         <!--end header-->
-       <!DOCTYPE html>
+       
 <html>
     <head>
         <meta charset="utf-8">
@@ -169,7 +169,7 @@ black
                         </td>
                    
         <!--end header--> 
-        <!DOCTYPE html>
+      
 <html>
     <head>
         <meta charset="utf-8">
