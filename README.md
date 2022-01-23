@@ -31,8 +31,8 @@
         <tr>
             <td>
                 <table border="0" cellpadding="15" cellspacing="0" align="center">
-                    <tr>
-                        <td>
+                    </tr>
+                        </td>
                             <font face="arial" colour="#000000" size="5" >
                        <h2>Environmental Studies</h2>
 </font >  
