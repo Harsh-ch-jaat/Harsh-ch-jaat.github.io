@@ -1,5 +1,4 @@
-
-
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -8,7 +7,7 @@
     </head>
     <body>
         <!--start header-->
-        <table id="header" border="5" width="100%" cellpadding="0" cellspacing="0" bgcolor=" #000000
+        <table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor=" #000000
 
 rgb(0,0,0)
 
@@ -50,7 +49,7 @@ black
                    
         <!--end header--> 
         
-    
+     <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -59,7 +58,7 @@ black
     </head>
     <body>
         <!--start header-->
-        <table id="header" border="0" width="90%" cellpadding="0" cellspacing="0" bgcolor="orange ">     
+        <table id="header" border="3" width="100%" cellpadding="0" cellspacing="0" bgcolor="orange ">     
         <tr>
             <td>
                 <table border="0" cellpadding="15" cellspacing="0" align="center">
@@ -73,7 +72,7 @@ black
                         </td>
                    
         <!--end header-->   
- 
+  <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -98,7 +97,7 @@ black
                         </td>
                         
         <!--end header-->    
-      
+       <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -121,7 +120,7 @@ black
                         </td>
                    
         <!--end header--> 
-       
+        <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -146,7 +145,7 @@ black
                         </td>
                    
         <!--end header-->
-       
+       <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -169,7 +168,7 @@ black
                         </td>
                    
         <!--end header--> 
-      
+        <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
