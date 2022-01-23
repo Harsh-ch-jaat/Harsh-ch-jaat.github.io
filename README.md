@@ -6,7 +6,9 @@
     </head>
     <body>
         <!--start header-->
-        <table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="orange ">     
+        <table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#FFFF00
+rgb(255,255,0)
+yellow">     
         <tr>
             <td>
                 <table border="0" cellpadding="15" cellspacing="0" align="center">
